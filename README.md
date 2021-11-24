@@ -16,8 +16,37 @@ there r 6 # for heading
 ***My goal is to be happy***
 
 ****==>is for both bold and italic
+- UNORDERED LIST
+1. FAMILY
+2. FRIENDS
+3. RELATIVES
 
-- heyyy hiiii!!!!!!!!!!!!
-  - VBN
+-  UNORDERED LIST
+1. NESTED LIST
+  - gdfhbf
+      - FIRST NESTED LIST
+       - SECOND NESTED LIST
+         - THIRD NESTED LIST
 
-  - heyyy  raju deepak
+[GOOGLE](WWW.GOOGLE.COM)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
